@@ -1,1 +1,22 @@
-Hello! I am Darron. I am an aspiring software engineer with big dreams to land a job at FAANG (or MAANG) and love to code! Unfortunately, I love music more and would probably be doing that if it was stable. I am proficcient in multiple languages, including but not limited to, C/C++, Javascript, Swift, Python, and more! You can check out my linkedin at https://www.linkedin.com/in/darronese/ .
+👋Hello, I'm Darron👋
+
+I'm an aspiring software engineer with big dreams of landing a job at FAANG (or MAANG). I have a passion for coding and love to create and play music, with the electric guitar being my main instrument. I aspire to one day land a job at a top tech company!
+
+🚀 About Me
+
+- Coding Enthusiast
+  - Proficient in multiple programming languages, including C/C++, JavaScript, Swift, Python, and more.
+- Self Proclaimed Professional Musician
+- Lifelong Learner
+
+🛠️ Skills
+
+Languages: C/C++, JavaScript, Swift, Python, and more.
+Tools: GitHub Desktop, Kitty terminal, Neovim Warrior,
+Platforms: Arch Linux, macOS, Windows 11
+
+🌐 Connect with Me
+
+LinkedIn: Darronese
+Website: darronese.github.io
+
