@@ -2,7 +2,7 @@
 
 I'm an aspiring software engineer with big dreams of landing a job at FAANG (or MAANG). I have a passion for coding and love to create and play music, with the electric guitar being my main instrument. I aspire to one day land a job at a top tech company!
 
-🚀 About Me
+🎸About Me🎸
 
 - Coding Enthusiast
   - Proficient in multiple programming languages, including C/C++, JavaScript, Swift, Python, and more.
@@ -10,13 +10,13 @@ I'm an aspiring software engineer with big dreams of landing a job at FAANG (or 
   - Addiction to buying instruments
 - Lifelong Learner
 
-🛠️ Skills
+🛠️Skills🛠️
 
 Languages: C/C++, JavaScript, Swift, Python, and more.
 Tools: GitHub Desktop, Kitty terminal, Neovim Warrior,
 Platforms: Arch Linux, macOS, Windows 11
 
-🌐 Connect with Me
+🌎Connect with Me🌎
 
 LinkedIn: Darronese
 Website: darronese.github.io
