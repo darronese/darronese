@@ -22,3 +22,4 @@ LinkedIn: Darronese
 Website: darronese.github.io
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darronese/)
+[![Email](https://img.shields.io/badge/Email-Reveal-green?style=flat-square&logo=gmail)](mailto:darron198@hotmail.com)
