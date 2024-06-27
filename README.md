@@ -19,5 +19,5 @@ Platforms: Arch Linux, macOS, Windows 11
 🌎Connect with Me🌎
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=github)](https://darronese.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darronese/)
-[![Email](https://img.shields.io/badge/Email-Reveal-green?style=flat-square&logo=gmail)](mailto:darron198@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darronese/)
+[![Email](https://img.shields.io/badge/Email-Reveal-green?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
