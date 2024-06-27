@@ -4,11 +4,11 @@ I'm an aspiring software engineer with big dreams of landing a job at FAANG (or 
 
 🎸About Me🎸
 
-- Coding Enthusiast
+Coding Enthusiast
   - Proficient in multiple programming languages, including C/C++, JavaScript, Swift, Python, and more.
-- Self Proclaimed Professional Musician
+Self Proclaimed Professional Musician
   - Addiction to buying instruments
-- Lifelong Learner
+Lifelong Learner
 
 🛠️Skills🛠️
 
