@@ -13,7 +13,9 @@ I'm an aspiring software engineer with big dreams of landing a job at FAANG (or 
 🛠️Skills🛠️
 
 Languages: C/C++, JavaScript, Swift, Python, and more.
-Tools: GitHub Desktop, Kitty terminal, Neovim Warrior,
+
+Tools: GitHub Desktop, Kitty terminal, Neovim Warrior
+
 Platforms: Arch Linux, macOS, Windows 11
 
 🌎Connect with Me🌎
