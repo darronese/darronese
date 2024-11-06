@@ -22,4 +22,4 @@ Platforms: Arch Linux, macOS, Windows 11
 
 [![darronese.github.io](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=github)](https://darronese.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darronese/)
-[![Email](https://img.shields.io/badge/Email-Reveal-green?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reveal-green?style=for-the-badge&logo=gmail)](mailto:darronese@outlook.com)
