@@ -1,6 +1,6 @@
 👋Hello, I'm Darron👋
 
-I'm an aspiring software engineer with big dreams of landing a job at FAANG (or MAANG). I have a passion for coding and love to create and play music, with the electric guitar being my main instrument. I aspire to one day land a job at a top tech company!
+I'm an aspiring software engineer studying Computer Science at Washington State University. I have a passion for coding and love to create and play music, with the electric guitar being my main instrument. I aspire to one day land a job at a top tech company!
 
 🎸About Me🎸
 
