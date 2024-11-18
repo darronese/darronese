@@ -1,7 +1,6 @@
 👋Hello, I'm Darron👋
 
-I'm an aspiring software engineer studying Computer Science at Washington State University. I have a passion for coding and love to create and play music, with the electric guitar being my main instrument.
-
+I'm an aspiring software engineer studying Computer Science at Washington State University.
 🎸About Me🎸
 
 - Aspiring Software Engineer
