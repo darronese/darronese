@@ -1,22 +1,18 @@
 👋Hello, I'm Darron👋
 
-I'm an aspiring software engineer studying Computer Science at Washington State University. I have a passion for coding and love to create and play music, with the electric guitar being my main instrument. I aspire to one day land a job at a top tech company!
+I'm an aspiring software engineer studying Computer Science at Washington State University. I have a passion for coding and love to create and play music, with the electric guitar being my main instrument.
 
 🎸About Me🎸
 
-- Coding Enthusiast
-  - Proficient in multiple programming languages, including C/C++, JavaScript, Swift, Python, and more.
+- Aspiring Software Engineer
 - Self Proclaimed Professional Musician
-  - Addiction to buying instruments
 - Lifelong Learner
 
 🛠️Skills🛠️
 
 Languages: C/C++, JavaScript, Swift, Python, and more.
 
-Tools: GitHub Desktop, Kitty terminal, Neovim Warrior
-
-Platforms: Arch Linux, macOS, Windows 11
+Platforms: Arch Linux, macOS
 
 🌎Connect with Me🌎
 
