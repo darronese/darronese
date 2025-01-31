@@ -9,7 +9,7 @@ I'm an aspiring software engineer studying Computer Science at Washington State 
 
 🛠️Skills🛠️
 
-Languages: C/C++, JavaScript, Swift, Python, and more.
+Languages: C/C++, JavaScript, Python, Lua
 
 Platforms: Arch Linux, macOS
 
