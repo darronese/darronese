@@ -1,6 +1,7 @@
 👋Hello, I'm Darron👋
 
 I'm an aspiring software engineer studying Computer Science at Washington State University.
+
 🎸About Me🎸
 
 - Aspiring Software Engineer
