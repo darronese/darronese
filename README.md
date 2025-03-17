@@ -8,9 +8,6 @@ About Me
 - Self Proclaimed Professional Musician
 - Lifelong Learner
 
-Skills
-Languages: C/C++, JavaScript, Python, Lua
-
 Platforms: Arch Linux, macOS
 
 Connect with Me
